@@ -1,0 +1,16 @@
+{
+  "build": {
+    "dockerfile": "Dockerfile"
+  },
+  "forwardPorts": [],
+  "extensions": [
+    "cschlosser.doxdocgen",
+    "ms-vscode.cmake-tools",
+    "marus25.cortex-debug",
+    "ms-vscode.cpptools",
+    "twxs.cmake",
+    "streetsidesoftware.code-spell-checker",
+    "gruntfuggly.todo-tree",
+    "eamodio.gitlens"
+  ]
+}
