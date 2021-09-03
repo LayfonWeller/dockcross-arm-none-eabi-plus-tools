@@ -76,7 +76,7 @@ ENV ARCH arm
 
 # Build-time metadata as defined at http://label-schema.org
 ARG BUILD_DATE
-ARG IMAGE=tiwebdev/embedded_buildtools_gccarmnoneeabi
+ARG IMAGE=dockcross-arm-none-eabi-plus-tools
 ARG VERSION=latest
 ARG VCS_REF
 ARG VCS_URL
